@@ -21,7 +21,14 @@ A **premium, luxury-styled digital clock** built with **HTML, CSS, and JavaScrip
 - **JavaScript** – Dynamic time display and formatting  
 
 ---
+## 🔹 Improvements / What You Can Add
 
+- Display **current date and day** below the clock  
+- Add **light/dark mode toggle**  
+- Add subtle **sparkle/glow particle effects** for extra luxury feel  
+- Customize **fonts and colors** for branding purposes  
+
+---
 
 
 
